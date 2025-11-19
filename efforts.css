@@ -51,7 +51,7 @@ table, th, td {
 /* sets background image, same as homepage */
 
 body {
-    background-image: url(images/bg.jpg);
+    background-image: url(bg.jpg);
     background-size: cover;
     background-position: center center;
 }
@@ -156,4 +156,5 @@ h1 {
     font-size: small;
     clear: left;
     margin-top: 200px;
+
 }
